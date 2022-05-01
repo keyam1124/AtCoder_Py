@@ -1,4 +1,4 @@
-# AtCoder 練習
+# AtCoder 練習(Python)
 
 ## 競プロ典型 90 問
 
