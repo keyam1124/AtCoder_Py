@@ -7,3 +7,5 @@
   - [052 - Dice Product（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_az)
 - 20220502
   - [055 - Select 5（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bc)
+- 20220503
+  - [061 - Deck（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bi)
