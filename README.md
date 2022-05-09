@@ -21,3 +21,5 @@
   - [078 - Easy Graph Problem（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bz)
 - 20220508
   - [079 - Two by Two（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ca)
+- 20220509
+  - [082 - Counting Numbers（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_cd)
