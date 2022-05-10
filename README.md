@@ -23,3 +23,5 @@
   - [079 - Two by Two（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ca)
 - 20220509
   - [082 - Counting Numbers（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_cd)
+- 20220510
+  - [084 - There are two types of characters（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_cf)
