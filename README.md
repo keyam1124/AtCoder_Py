@@ -27,3 +27,5 @@
   - [084 - There are two types of characters（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_cf)
 - 20220511
   - [002 - Encyclopedia of Parentheses（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_b)
+- 20220512
+  - [004 - Cross Sum（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_d)
