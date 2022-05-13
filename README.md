@@ -29,3 +29,5 @@
   - [002 - Encyclopedia of Parentheses（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_b)
 - 20220512
   - [004 - Cross Sum（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_d)
+- 20220513
+  - [007 - CP Classes（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_g)
