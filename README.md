@@ -31,3 +31,5 @@
   - [004 - Cross Sum（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_d)
 - 20220513
   - [007 - CP Classes（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_g)
+- 20220514
+  - [010 - Score Sum Queries（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_j)
