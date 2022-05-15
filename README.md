@@ -33,3 +33,5 @@
   - [007 - CP Classes（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_g)
 - 20220514
   - [010 - Score Sum Queries（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_j)
+- 20220515
+  - [014 - We Used to Sing a Song Together（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_n)
