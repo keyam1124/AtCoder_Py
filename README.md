@@ -40,3 +40,5 @@
 - 20220517
   - [020 - Log Inequality（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_t)
   - [022 - Cubic Cake（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_v)
+- 20220518
+  - [024 - Select +／- One（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_x)
