@@ -44,3 +44,5 @@
   - [024 - Select +／- One（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_x)
 - 20220519
   - [027 - Sign Up Requests （★2）](https://atcoder.jp/contests/typical90/tasks/typical90_aa)
+- 20220520
+  - [032 - AtCoder Ekiden（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_af)
