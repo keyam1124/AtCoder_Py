@@ -48,3 +48,5 @@
   - [032 - AtCoder Ekiden（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_af)
 - 20220521
   - [033 - Not Too Bright（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_ag)
+- 20220522
+  - [038 - Large LCM（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_al)
