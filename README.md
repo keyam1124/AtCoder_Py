@@ -50,3 +50,5 @@
   - [033 - Not Too Bright（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_ag)
 - 20220522
   - [038 - Large LCM（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_al)
+- 20220523
+  - [044 - Shift and Swapping（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ar)
