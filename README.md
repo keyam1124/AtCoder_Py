@@ -54,3 +54,5 @@
   - [044 - Shift and Swapping（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ar)
 - 20220524
   - [046 - I Love 46（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_at)
+- 20220525
+  - [048 - I will not drop out（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_av)
