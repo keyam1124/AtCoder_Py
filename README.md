@@ -56,3 +56,7 @@
   - [046 - I Love 46（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_at)
 - 20220525
   - [048 - I will not drop out（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_av)
+- 20220526
+  - [050 - Stair Jump（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ax)
+- 20220528
+  - [052 - Dice Product（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_az)
