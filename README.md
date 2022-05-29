@@ -60,3 +60,5 @@
   - [050 - Stair Jump（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ax)
 - 20220528
   - [052 - Dice Product（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_az)
+- 20220529
+  - [055 - Select 5（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bc)
