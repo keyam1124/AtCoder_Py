@@ -1,20 +1,21 @@
-n, q = map(int, input().split())
-a = list(map(int, input().split()))
-ans = 0
-for i in range(n - 1):
-    ans += abs(a[i] - a[i + 1])
+N, Q = map(int, input().split())
+A = list(map(int, input().split()))
 
-b = []
-for i in range(n - 1):
-    b.append(a[i] - a[i + 1])
-for i in range(q):
+
+items = [0]
+abs_sum = 0
+for i in range(N - 1):
+    items.append(A[i] - A[i + 1])
+    abs_sum += abs(A[i] - A[i + 1])
+
+for i in range(Q):
     L, R, V = map(int, input().split())
     if L > 1:
-        temp = b[L - 2]
-        b[L - 2] -= V
-        ans += abs(b[L - 2]) - abs(temp)
-    if R < n:
-        temp = b[R - 1]
-        b[R - 1] += V
-        ans += abs(b[R - 1]) - abs(temp)
-    print(ans)
+        temp = items[L - 1]
+        items[L - 1] -= V
+        abs_sum += abs(items[L - 1]) - abs(temp)
+    if R < N:
+        temp = items[R]
+        items[R] += V
+        abs_sum += abs(items[R]) - abs(temp)
+    print(abs_sum)
