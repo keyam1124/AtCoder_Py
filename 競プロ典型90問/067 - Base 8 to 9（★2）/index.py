@@ -1,28 +1,35 @@
-def from10(val: int, base: int):
-    syou = val
-    res = ""
-    while syou > 0:
-        mod = syou % base
-        res = str(mod) + res
-        syou //= base
-    return res
+def from8to10(val):
+    val_str = str(val)
+    val_len = len(val_str)
+    ans = 0
+    for i in range(val_len):
+        num = int(val_str[i])
+        ans += pow(8, val_len - 1 - i) * num
+    return ans
 
 
-def to10(val: int, base: int):
-    res = 0
-    for i in range(len(str(val))):
-        res += (val % 10) * (base**i)
-        val //= 10
-    return res
+def from10to9(val):
+    ans = ""
+    while True:
+        shou = val // 9
+        amari = val % 9
+        ans = f"{amari}{ans}"
+        if shou >= 9:
+            val = shou
+        else:
+            ans = f"{shou}{ans}"
+            break
+    return ans
 
 
-n, k = map(int, input().split())
-if n == 0:
-    print(0)
-else:
-    for i in range(k):
-        n10 = to10(n, 8)
-        n = from10(n10, 9)
-        n = int(str(n).replace("8", "5"))
+N, K = map(int, input().split())
 
-    print(n)
+ans = N
+for i in range(K):
+    ans = from8to10(ans)
+    ans = from10to9(ans)
+    ans_str = str(ans)
+    ans_str = ans_str.replace("8", "5")
+    ans = int(ans_str)
+
+print(ans)

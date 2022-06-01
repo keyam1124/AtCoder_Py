@@ -66,3 +66,5 @@
   - [061 - Deck（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bi)
 - 20220531
   - [064 - Uplift（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_bl)
+- 20220601
+  - [067 - Base 8 to 9（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bo)
