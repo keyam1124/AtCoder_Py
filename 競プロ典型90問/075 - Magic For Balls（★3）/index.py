@@ -15,13 +15,12 @@ def prime_factorize(n):
     return a
 
 
-n = int(input())
-cnt = len(prime_factorize(n))
-if cnt == 1:
+N = int(input())
+num = len(prime_factorize(N))
+if num == 1:
     print(0)
 else:
     ans = 1
-    while 2**ans < cnt:
+    while 2**ans < num:
         ans += 1
-
     print(ans)
