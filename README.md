@@ -72,3 +72,5 @@
   - [069 - Colorful Blocks 2（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_bq)
 - 20220603
   - [075 - Magic For Balls（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_bw)
+- 20220604
+  - [076 - Cake Cut（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_bx)
