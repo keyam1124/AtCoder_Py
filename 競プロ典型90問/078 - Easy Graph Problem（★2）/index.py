@@ -1,10 +1,20 @@
-n, m = map(int, input().split())
-memo = [0] * n
-for i in range(m):
-    a, b = map(int, input().split())
-    if a > b:
-        memo[a - 1] += 1
+N, M = map(int, input().split())
+
+dic = {}
+for i in range(M):
+    a, b = input().split()
+    a_num = int(a)
+    b_num = int(b)
+    if a_num > b_num:
+        if dic.get(a) is None:
+            dic[a] = 1
+        else:
+            dic[a] += 1
     else:
-        memo[b - 1] += 1
-ans = sum(1 for x in memo if x == 1)
-print(ans)
+        if dic.get(b) is None:
+            dic[b] = 1
+        else:
+            dic[b] += 1
+
+ans = filter(lambda x: dic[x] == 1, dic)
+print(len(list(ans)))
