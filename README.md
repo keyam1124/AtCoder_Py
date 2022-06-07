@@ -76,3 +76,5 @@
   - [076 - Cake Cut（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_bx)
 - 20220605
   - [078 - Easy Graph Problem（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bz)
+- 20220606
+  - [079 - Two by Two（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ca)
