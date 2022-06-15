@@ -87,3 +87,5 @@
 - 20220613
   - [ABC254](https://atcoder.jp/contests/abc254/tasks)
   - [ABC253](https://atcoder.jp/contests/abc253/tasks)
+- 20220615
+  - [ABC252](https://atcoder.jp/contests/abc252/tasks)
